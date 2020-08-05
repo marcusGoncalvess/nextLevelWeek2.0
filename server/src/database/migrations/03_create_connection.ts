@@ -15,7 +15,10 @@ export async function up(knex: Knex) {
       // se alterar o id na outra tabela ele reflete aqui automaticamente
       .onUpdate("CASCADE");
 
-    table.timestamp("created_at").defaultTo("now()").notNullable();
+    table
+      .timestamp("created_at")
+      .defaultTo(knex.raw("CURRENT_TIMESTAMP"))
+      .notNullable();
   });
 }
 // metodo down: Desfazer alterações se caso dê problema
