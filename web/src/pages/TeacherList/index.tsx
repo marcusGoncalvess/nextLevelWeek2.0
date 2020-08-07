@@ -26,7 +26,8 @@ function TeacherList() {
             { value: 'História', label: 'História' },
             { value: 'Matemática', label: 'Matemática' },
             { value: 'Português', label: 'Português' },
-            { value: 'Química', label: 'Química' }
+            { value: 'Química', label: 'Química' },
+            { value: "Filosofia", label: "Filosofia" }
           ]}
           />
           <Select 
