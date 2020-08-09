@@ -82,6 +82,10 @@ const styles = StyleSheet.create({
     marginRight: 8,
   },
 
+  favorited: {
+    backgroundColor: "#e33d3d",
+  },
+
   contactButton: {
     flex: 1,
     flexDirection: "row",
