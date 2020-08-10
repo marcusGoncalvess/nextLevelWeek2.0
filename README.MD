@@ -38,11 +38,13 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 <h3>App Mobile (IOS & Android)</h3>
 <img src='./github_assets/mobile-1.gif' height=800>
 
-<h1 name="run">:construction_worker: Como rodar o projeto</h1>
+<h1 name="run">:construction_worker: Como rodar o projeto</h1> <br>
+
 ```bash
 # Clone Repository
 $ git clone https://github.com/marcusGoncalvess/nextLevelWeek2.0.git
 ```
+
 ### 📦 Ligar a API
 
 ```bash
