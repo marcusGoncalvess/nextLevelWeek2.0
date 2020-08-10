@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_assets/logo.png" alt="Proffy" />
+  <img src="./github_assets/logo.svg" alt="Proffy" />
 </p>
 
 <h1 name="sobre">ℹ Sobre o Projeto</h1>
