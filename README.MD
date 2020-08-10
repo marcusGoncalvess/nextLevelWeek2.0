@@ -2,7 +2,17 @@
   <img src="./github_assets/logo.png" alt="Proffy" />
 </p>
 
-# ℹ Sobre o Projeto
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#sobre-o-projeto)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Como usar](#como-usar)
+   * [Tecnologias](#tecnologias)
+<!--te-->
+
+ℹ Sobre o Projeto
+=========
 Projeto Proffy foi construido durante esta semana do dia 3 a 7 de agosto de 2020 na Next Level Week, tivemos mais de 110mil devs participando do evento.
 Proffy é um projeto em homenagem ao dia 06 de agosto que é o dia nacional do profissional de educação! 👨‍🏫 <br>
 Uma plataforma que conecta alunos com professores. 🎯
