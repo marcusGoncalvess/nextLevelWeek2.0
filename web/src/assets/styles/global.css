@@ -2,16 +2,16 @@
   font-size: 60%;
 
   --color-background: #f0f0f7;
-  --color-primary-lighter: #9871f5;
-  --color-primary-light: #916bea;
-  --color-primary: #8257e5;
-  --color-primary-dark: #774dd6;
-  --color-primary-darker: #6842c2;
-  --color-secondary: #04d361;
-  --color-secondary-dark: #04bf58;
+  --color-primary-lighter: #69a3ba;
+  --color-primary-light: #3784a3;
+  --color-primary: #05668d;
+  --color-primary-dark: #045170;
+  --color-primary-darker: #033d54;
+  --color-secondary: #02c39a;
+  --color-secondary-dark: #01886b;
   --color-title-in-primary: #ffffff;
-  --color-text-in-primary: #d4c2ff;
-  --color-text-title: #32264d;
+  --color-text-in-primary: #a2e3fd;
+  --color-text-title: #00271e;
   --color-text-complement: #9c98a6;
   --color-text-base: #6a6180;
   --color-line-in-white: #e6e6f0;
