@@ -5,14 +5,13 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#sobre-o-projeto)
+   * [Sobre](#sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-ℹ Sobre o Projeto
-=========
+<h1 name="sobre">ℹ Sobre o Projeto</h1>
 Projeto Proffy foi construido durante esta semana do dia 3 a 7 de agosto de 2020 na Next Level Week, tivemos mais de 110mil devs participando do evento.
 Proffy é um projeto em homenagem ao dia 06 de agosto que é o dia nacional do profissional de educação! 👨‍🏫 <br>
 Uma plataforma que conecta alunos com professores. 🎯
