@@ -13,6 +13,9 @@ Uma plataforma que conecta alunos com professores. 🎯
    * [O que é Next Level Week?](#nlw)
    * [Preview do Projeto](#preview)
    * [Como rodar o projeto](#run)
+      * [Ligar a API](#api)
+      * [Visualizar WebSite](#web)
+      * [Rodar projeto no celular](#mob)
    * [Tecnologias](#tecnologias)
    * [Licença](#license)
 <!--te-->
@@ -45,7 +48,7 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 $ git clone https://github.com/marcusGoncalvess/nextLevelWeek2.0.git
 ```
 
-### 📦 Ligar a API
+<h3 name='api'>📦 Ligar a API</h3><br>
 
 ```bash
 # Vá até a pasta
@@ -59,7 +62,7 @@ $ yarn start
 ```
 Access API at http://localhost:3333/
 
-### 💻 Visualizar WebSite
+<h3 name='web'>💻 Visualizar WebSite</h3><br>
 
 ```bash
 # Vá até a pasta
@@ -73,7 +76,7 @@ $ yarn start
 ```
 Vá para http://localhost:3000/ para ver o website.
 
-### 📱 Rodar projeto no celular
+<h3 name='mob'>📱 Rodar projeto no celular</h3><br>
 Para ver o projeto no celular você precisa ter o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
 <br />
 Depois, fork esse repositorio ou clone em sua máquina. Dentro do projeto rode os comandos:
