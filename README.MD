@@ -4,5 +4,6 @@ Uma plataforma que conecta alunos com professores. 🎯
 
 ### Readme em desenvolvimento 🚧 <br>
 ### Preview:
-<img src='./github_assets/web1.png'>
-<img src='./github_assets/web2.png'>
+<img src='./github_assets/web-1.png'>
+<img src='./github_assets/web-2.png'>
+<img src='./github_assets/web-3.png'>
