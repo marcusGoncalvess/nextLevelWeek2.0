@@ -3,13 +3,14 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#8257E5",
+    backgroundColor: "#05668d",
     justifyContent: "center",
     padding: 40,
   },
 
   banner: {
     width: "100%",
+    height: 250,
     // Para redimensionar a imagem proporcionalmente
     // E com todo o conteúdo dela estando visível
     resizeMode: "contain",
@@ -20,7 +21,7 @@ const styles = StyleSheet.create({
     color: "#FFF",
     fontSize: 20,
     lineHeight: 30,
-    marginTop: 80,
+    marginTop: 30,
   },
 
   titleBold: {
@@ -43,11 +44,11 @@ const styles = StyleSheet.create({
   },
 
   buttonPrimary: {
-    backgroundColor: "#9871f5",
+    backgroundColor: "#69a3ba",
   },
 
   buttonSecondary: {
-    backgroundColor: "#04d361",
+    backgroundColor: "#02c39a",
   },
 
   buttonText: {
@@ -58,7 +59,7 @@ const styles = StyleSheet.create({
 
   totalConnections: {
     fontFamily: "Poppins_400Regular",
-    color: "#d4c2ff",
+    color: "#fff",
     fontSize: 12,
     lineHeight: 20,
     maxWidth: 140,

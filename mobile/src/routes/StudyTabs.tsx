@@ -34,7 +34,7 @@ function StudyTabs() {
         inactiveBackgroundColor: "#fafafc",
         activeBackgroundColor: "#ebebf5",
         inactiveTintColor: "#c1bccc",
-        activeTintColor: "#32264d",
+        activeTintColor: "#00271e",
       }}
     >
       <Screen
@@ -45,7 +45,7 @@ function StudyTabs() {
           tabBarIcon: ({ color, size, focused }) => {
             return (
               <Ionicons
-                color={focused ? "#8257e5" : color}
+                color={focused ? "#05668d" : color}
                 size={size}
                 name="ios-easel"
               />
@@ -61,7 +61,7 @@ function StudyTabs() {
           tabBarIcon: ({ color, size, focused }) => {
             return (
               <Ionicons
-                color={focused ? "#8257e5" : color}
+                color={focused ? "#05668d" : color}
                 size={size}
                 name="ios-heart"
               />

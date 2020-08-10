@@ -7,7 +7,7 @@ import api from "../../services/api";
 
 import styles from "./styles";
 
-import landingImg from "../../assets/images/landing.png";
+import landingImg from "../../assets/images/landing2.png";
 import studyIcon from "../../assets/images/icons/study.png";
 import giveClassesIcon from "../../assets/images/icons/give-classes.png";
 import heartIcon from "../../assets/images/icons/heart.png";

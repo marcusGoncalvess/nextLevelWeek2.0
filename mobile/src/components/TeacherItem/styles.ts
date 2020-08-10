@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
   container: {
     backgroundColor: "#fff",
     borderWidth: 1,
-    borderColor: "#e6e6f0",
+    borderColor: "#fff",
     borderRadius: 8,
     marginBottom: 16,
     overflow: "hidden",
@@ -29,13 +29,13 @@ const styles = StyleSheet.create({
 
   name: {
     fontFamily: "Archivo_700Bold",
-    color: "#32264d",
+    color: "#111312",
     fontSize: 20,
   },
 
   subject: {
     fontFamily: "Poppins_400Regular",
-    color: "#6a6180",
+    color: "#111312",
     fontSize: 12,
     marginTop: 4,
   },
@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
 
   priceValue: {
     fontFamily: "Archivo_700Bold",
-    color: "#8257e5",
+    color: "#02c39a",
     fontSize: 16,
   },
 
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
   },
 
   favoriteButton: {
-    backgroundColor: "#8257e5",
+    backgroundColor: "#69a3ba",
     width: 56,
     height: 56,
     borderRadius: 8,
@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
   contactButton: {
     flex: 1,
     flexDirection: "row",
-    backgroundColor: "#04d361",
+    backgroundColor: "#02c39a",
     height: 56,
     borderRadius: 8,
     justifyContent: "center",

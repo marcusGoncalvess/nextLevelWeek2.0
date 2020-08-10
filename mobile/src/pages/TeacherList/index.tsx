@@ -38,7 +38,7 @@ function TeacherList() {
       }
     });
   }
-
+  // Recarregar a lista ao trocar de guia
   useFocusEffect(() => {
     loadFavorites();
   });
