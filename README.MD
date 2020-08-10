@@ -19,9 +19,73 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 <li><strong>Grupo: </strong> A comunidade de devs é uma das melhores comunidades que existem! Trabalhar em grupo é essencial, já perdi a conta de quantas vezes ajudei e fui ajudado com erros de programação.</li>
 <li><strong>Prática: </strong> E claro, não podia faltar! Quando vemos uma aula, nós podemos entender os conceitos, mas só na prática que aprendemos realmente como faze-los! </li>
 
-# Preview do Projeto:
-<h2>Web</h2>
+# :eyes: Preview do Projeto
+<h3>Web</h3>
 <img src='./github_assets/web-1.png'>
 <img src='./github_assets/web-2.png'>
-<h2>App Mobile (IOS & Android)</h2>
+<h3>App Mobile (IOS & Android)</h3>
 <img src='./github_assets/mobile-1.gif' height=800>
+
+# :construction_worker: Como rodar o projeto
+```bash
+# Clone Repository
+$ git clone https://github.com/marcusGoncalvess/nextLevelWeek2.0.git
+```
+### 📦 Ligar a API
+
+```bash
+# Vá até a pasta
+$ cd Proffy/server
+
+# Instale as dependencias
+$ yarn install
+
+# Ligue a API
+$ yarn start
+```
+Access API at http://localhost:3333/
+
+### 💻 Visualizar WebSite
+
+```bash
+# Vá até a pasta
+$ cd Proffy/web
+
+# Instale as dependencias
+$ yarn install
+
+# Ligue o servidor
+$ yarn start
+```
+Vá para http://localhost:3000/ para ver o website.
+
+### 📱 Rodar projeto no celular
+Para ver o projeto no celular você precisa ter o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
+<br />
+Depois, fork esse repositorio ou clone em sua máquina. Dentro do projeto rode os comandos:
+
+```bash
+# Ir para a pasta
+$ cd Proffy/mobile
+
+# Instale as dependencias
+$ yarn install
+
+# Ligue o App
+$ yarn start
+```
+Irá abrir uma aba no seu navegador e apacerá um QR Code, se escanear ele no aplicativo Expo, abrirá a aplicação. Terá uma opção para rodar em um emulador também.
+
+# 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+# :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
