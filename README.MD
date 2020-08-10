@@ -14,7 +14,7 @@ Uma plataforma que conecta alunos com professores. 🎯
    * [Preview do Projeto](#preview)
    * [Como rodar o projeto](#run)
       * [Ligar a API](#api)
-      * [Visualizar WebSite](#web)
+      * [Visualizar WebSite](#website)
       * [Rodar projeto no celular](#mob)
    * [Tecnologias](#tecnologias)
    * [Licença](#license)
@@ -62,7 +62,7 @@ $ yarn start
 ```
 Access API at http://localhost:3333/
 
-<h3 name='web'>💻 Visualizar WebSite</h3><br>
+<h3 name='website'>💻 Visualizar WebSite</h3><br>
 
 ```bash
 # Vá até a pasta
