@@ -77,7 +77,7 @@ $ yarn start
 Vá para http://localhost:3000/ para ver o website.
 
 <h3 name='mob'>📱 Rodar projeto no celular</h3><br>
-Para ver o projeto no celular você precisa ter o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
+Para ver o projeto no celular você precisa ter o <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">expo</a> instalado ou um emulador android/ios.
 <br />
 Depois, fork esse repositorio ou clone em sua máquina. Dentro do projeto rode os comandos:
 
